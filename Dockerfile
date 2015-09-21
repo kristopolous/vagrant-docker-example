@@ -1,5 +1,5 @@
 FROM debian:latest
-MAINTAINER Anatoly Bubenkov "bubenkoff@gmail.com"
+MAINTAINER Chris McKenzie "bubenkoff@gmail.com"
 
 ENV HOME /root
 

@@ -1,7 +1,7 @@
-vagrant-docker-example
+vagrant-docker-debian-latest
 ======================
 
-Example of basic vagrant docker provider usage
+This is a fork of a very basic docker/vagrant config to use debian-latest.
 
 Installation
 ------------
